@@ -1,5 +1,7 @@
 # Payroll system written in PHP
 
+locate database: [click here](db/apsystem.sql)
+
 ## Built With :wrench:
 * PHP
 * JavaScript
@@ -7,7 +9,6 @@
 * CSS
 * Less
 
-```locate database: [click here](db/apsystem.sql)```
 
 ## Preview
 ![img1](preview/employee-time-in.png)
