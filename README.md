@@ -10,9 +10,9 @@
 * locate database: [click here](db/apsystem.sql)
 
 ## Preview
-* employee-time-in.png
-* dashboard.png
-* employee-list.png
-* payroll.png
+* ![img1](preview/employee-time-in.png)
+* ![img2](preview/dashboard.png)
+* ![img3](preview/employee-list.png)
+* ![img4](preview/payroll.png)
 
 
