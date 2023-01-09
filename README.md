@@ -7,4 +7,12 @@
 * CSS
 * Less
 
+* locate database: [click here](db/apsystem.sql)
+
 ## Preview
+* employee-time-in.png
+* dashboard.png
+* employee-list.png
+* payroll.png
+
+
