@@ -1,6 +1,6 @@
 # Payroll system written in PHP
 
-locate database: [click here](db/apsystem.sql)
+locate database: [.sql](db/apsystem.sql)
 
 ## Built With :wrench:
 * PHP
