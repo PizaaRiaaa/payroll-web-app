@@ -7,7 +7,7 @@
 * CSS
 * Less
 
-* locate database: [click here](db/apsystem.sql)
+```locate database: [click here](db/apsystem.sql)```
 
 ## Preview
 ![img1](preview/employee-time-in.png)
